@@ -1,0 +1,19 @@
+layout stack
+cd ~
+launch zsh
+
+new_tab app
+cd ~/Programming/stiik/stiikapp/
+layout stack
+launch nvim
+
+new_tab backend
+cd ~/Programming/stiik/backend/
+layout stack
+launch nvim
+
+new_tab notes
+cd ~/Programming/stiik/notes/
+layout stack
+launch nvim
+
